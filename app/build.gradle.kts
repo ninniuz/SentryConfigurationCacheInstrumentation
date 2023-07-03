@@ -3,7 +3,7 @@ import io.sentry.android.gradle.extensions.InstrumentationFeature
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
-    id("io.sentry.android.gradle") version "3.11.0"
+    id("io.sentry.android.gradle") version "3.11.1"
 }
 
 android {
